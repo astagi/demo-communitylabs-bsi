@@ -1,0 +1,15 @@
+{
+  "name": "demo-communitylabs-bsi",
+  "version": "1.0.0",
+  "description": "Demo for community lab DTD 2024",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server ."
+  },
+  "author": "Andrea Stagi",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-italia": "^2.11.0",
+    "http-server": "^14.1.1"
+  }
+}
