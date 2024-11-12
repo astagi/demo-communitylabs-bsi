@@ -4,7 +4,8 @@
   "description": "Demo for community lab DTD 2024",
   "main": "index.js",
   "scripts": {
-    "serve": "http-server ."
+    "serve": "http-server .",
+    "build": "echo 'In futuro la implementiamo'"
   },
   "author": "Andrea Stagi",
   "license": "MIT",
