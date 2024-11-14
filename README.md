@@ -6,14 +6,25 @@
 npm i
 ```
 
-## Build
+## Lancia in modalità sviluppo
 
-TODO
-
-## Serve
 
 ```sh
-npm run serve
+npm run watch
+```
+
+La pagina sarà visibile su [http://localhost:8080/](http://localhost:8080/).
+
+## Build per produzione
+
+```sh
+npm run build
+```
+
+E puoi vedere la build lanciando 
+
+```sh
+npm run serve-build
 ```
 
 La demo sarà visibile su [http://localhost:8080/](http://localhost:8080/).
