@@ -11,7 +11,7 @@
   "author": "Andrea Stagi",
   "license": "MIT",
   "dependencies": {
-    "bootstrap-italia": "^2.11.1"
+    "bootstrap-italia": "^2.11.2"
   },
   "type": "module",
   "devDependencies": {
