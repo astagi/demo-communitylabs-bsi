@@ -3,8 +3,8 @@
 Questa demo è stata realizzata per il [Community lab del 19/11/24](https://designers.italia.it/community/eventi/20241119-community-lab-design-system-italia/). Si tratta di 
 una semplice pagina partendo dal progetto Figma con il [Design UI Kit Italia](https://designers.italia.it/design-system/come-iniziare/per-designer/).
 
-<!-- 📺 [Video del Community lab]()
-🎨 [File Figma della pagina]() -->
+📺 [Video del Community lab](https://www.youtube.com/watch?v=3PDfLRs97yk&ab_channel=DipartimentoperlaTrasformazioneDigitale)
+<!-- 🎨 [File Figma della pagina]() -->
 
 ## Installazione
 
